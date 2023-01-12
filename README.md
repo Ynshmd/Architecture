@@ -2,6 +2,7 @@
 
 Ce Github est un projet d'architecture Base de donnée.Dans ce projet nous allons travailler avec le site de la centrale afin de prendre les données des véhicule (Modele , prix ,année , région) en coorélation avec le PIB par région en France. 
 
+Nous avons utilisé la centrale afin de récolter les données de ventes de véhicule d'occasion. Pour pouvoir récolter ces donnée nous nous sommes aidé de [Web Scrapper]
 * *Ce Read me a été réalisé sous windows 10 mais est identique pour Windows 11 , Linux et Mac.* 
 
 # Prérequis 
@@ -47,6 +48,9 @@ Pour lancer MongoDB il suffit de lancer l'application .
 
 
 ![image](https://user-images.githubusercontent.com/118398845/212063294-919a8d34-7a2b-4203-b712-5ee4a5104ec0.png)
+
+
+##
 
 
 
