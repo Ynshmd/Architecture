@@ -6,6 +6,7 @@ Ce Github est un projet d'architecture Base de donnée.Dans ce projet nous allon
 
 # Prérequis 
 Tout d'abord dans ce prérequis nous allons installer tout les éléments necessaires pour pouvoir executer notre projet .Lors du dévellopement de ce Projet nous avons utiliser Visual studio code . 
+Afin de récupérer les données sur 
 ## Installations
 
 Sur ce projet , il faut installer : 
@@ -31,15 +32,21 @@ Sur ce projet , il faut installer :
   
 ## Lancement MongoDB et MongoSH
 Pour executer notre projet il faut 
-### Mongo SH
 
-Pour lancer MongoSh il faut lancer le .exe ![image](https://user-images.githubusercontent.com/118398845/212062370-fc86b674-6c3c-454d-a825-e346e715d4c4.png)
+### - Mongo SH
+
+Pour lancer MongoSh il faut lancer le .exe 
+
+![image](https://user-images.githubusercontent.com/118398845/212062370-fc86b674-6c3c-454d-a825-e346e715d4c4.png)
 
 Il faut aller le chercher dans : 
 
-### Mongo DB 
+### - Mongo DB 
 
-Pour lancer MongoDB il suffit de lancer l'application .![image](https://user-images.githubusercontent.com/118398845/212063294-919a8d34-7a2b-4203-b712-5ee4a5104ec0.png)
+Pour lancer MongoDB il suffit de lancer l'application .
+
+
+![image](https://user-images.githubusercontent.com/118398845/212063294-919a8d34-7a2b-4203-b712-5ee4a5104ec0.png)
 
 
 
