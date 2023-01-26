@@ -26,20 +26,21 @@ Sur ce projet , il faut installer :
    - __Installer les librairie qu'on a besoin__
    
    ``````
-   pip install requirements.txt
+   pip install -r requirements.txt
    
    ``````
  
 ## Lancement de XAMP
+
  - Executer le xamp.exe
- 
- - Lancer Xamp
- 
- - cliquez sur le bouton Start sur le Module Apache
  
  - Rajouter une extension .dll (php_mongodb.dll) :C:\xampp\php\ext
 
 - Remplacer le fichier php.ini dans le chemin suivant : C:\xampp\php
+
+ - Lancer Xamp
+
+- cliquez sur le bouton Start sur le Module Apache
 
 
 ## Lancement MongoDB et MongoSH ![icons8-paramètres-de-l #39;ordinateur-portable-50](https://user-images.githubusercontent.com/118398845/214807221-e5cd379a-5e09-4045-a6ec-bc2588691783.png)
@@ -81,7 +82,7 @@ L'environnement que nous utilisons est VisualStudio Code
 - [Installer VisualStudio](https://code.visualstudio.com/download)
 
 - Faire un open folder du dossier du site
-- Faire un open folder du dossier du dossier de la base de données
+- Faire un open folder du dossier de la base de données
 
 
 # Lancement du Projet  ![icons8-racing-car-48](https://user-images.githubusercontent.com/118398845/214806718-ba2df5ba-7db1-43f1-b2ee-69bc30ba779d.png)
@@ -90,10 +91,13 @@ Une fois toute les installations et configurations effecteur nous allons execute
 
 ## Insertion des donnée dans la Base
 
- - Ouvrez le fichier __blabla.py__ puis inserrer votre connexion correpondante qui se trouve dans votre Mongosh (_dans notre exemple nous allons utilisé la connexion du groupe_):
+ - Ouvrez tout d'abord les fichiers **prog_insert_bourse.py** , **prog_insert_voiture.py** ,**prog_insertScrap_Mongo.py** puis inserrez votre connexion correpondante qui se trouve dans votre Mongosh (_dans notre exemple nous allons utilisé la connexion du groupe_):
 ![image](https://user-images.githubusercontent.com/118398845/214821948-01842b1f-5ea9-47f3-97df-b0553b917c20.png).
 
- - Puis vous allez remplacer par votre connexion a cette endroit du script: ********************************************
+ - Puis vous allez remplacer par votre connexion a cette endroit du script: 
+ 
+ ![image](https://user-images.githubusercontent.com/118398845/214965007-c64deb44-a73c-4470-8b15-5d239b12386a.png)
+
  
 - Puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Reload DATA__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Base: ![image](https://user-images.githubusercontent.com/118398845/214893686-217c8788-a47b-4a87-a294-b11924657b20.png)
 
@@ -102,6 +106,11 @@ Une fois toute les installations et configurations effecteur nous allons execute
 ## Analyse des donnée
 
 L'analyse de donnée se fais directement sur VisualCode. En executant le code suivant.
+
+
+![image](https://user-images.githubusercontent.com/118398845/214966459-62caf196-123a-415b-b230-dd08a93978f3.png)
+
+
 
 _Voici les résultats des graphes à obtenir_
 
