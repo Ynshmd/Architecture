@@ -99,10 +99,27 @@ Une fois toute les installations et configurations effecteur nous allons execute
  - Puis vous allez remplacer par votre connexion a cette endroit du script:
 
 
- - Toujours dans le même code vous allez choisir un nom de collection (_ici nous l'avons appeler blabla_)
+ - Toujours dans le même code vous allez choisir un nom de collection (_ici nous l'avons appeler blabla_): 
 
 
-- puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Refresh__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Basr
+- puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Refresh__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Base:
+
+
+- Données en Live
+
+## Analyse des donnée
+
+Sur Jupiter Lab
+
+## Page Web 
+
+Actualisé :
+
+Modifié :
+
+Supprimer : 
+
+Ajouter :
 
  
 
