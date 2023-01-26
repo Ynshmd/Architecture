@@ -23,53 +23,12 @@ Sur ce projet , il faut installer :
 
   **En ligne de commande**
   
- - __Installer pandas__
-  ````
-  pip install pandas
-  
-  ````
- 
- - __Installer python__
-
-  ````
-  pip install python
-  ````
-  
-  -  __Installer Flask__
-  
-  ``````
-  pip install Flask
-  ``````
-  
- - __Installer BS4__
- 
- ``````
- pip install bs4
- ``````
- 
- - __Installer Pymongo__
- 
- ``````
- pip install pypmongo
- ``````
- 
-- __Installer Datetime__
- 
- ``````
- pip install datetime
- ``````
- 
-- __Installer Matpotlin__
- 
- ``````
- pip install -U matpotlib
- ``````
- 
-- __Installer Webrowser__
- 
- ``````
- pip install pycopy-webbrowser
- ``````
+   - __Installer les librairie qu'on a besoin__
+   
+   ``````
+   pip install requirements.txt
+   
+   ``````
  
 ## Lancement de XAMP
  - Executer le xamp.exe
