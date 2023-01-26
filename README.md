@@ -30,7 +30,17 @@ Sur ce projet , il faut installer :
    
    ``````
  
+## Lancement de XAMP
 
+ - Executer le xamp.exe
+ 
+ - Lancer Xamp
+ 
+ - Rajouter une extension .dll (php_mongodb.dll) :C:\xampp\php\ext
+
+- Remplacer le fichier php.ini dans le chemin suivant : C:\xampp\php
+
+- cliquez sur le bouton Start sur le Module Apache
 
 
 ## Lancement MongoDB et MongoSH ![icons8-paramètres-de-l #39;ordinateur-portable-50](https://user-images.githubusercontent.com/118398845/214807221-e5cd379a-5e09-4045-a6ec-bc2588691783.png)
@@ -119,16 +129,7 @@ _Voici les résultats des graphes à obtenir_
 
 ![image](https://user-images.githubusercontent.com/118398845/214956636-a3634616-8abf-4a2f-9a54-c217f732436e.png)
 
-## Lancement de XAMP
- - Executer le xamp.exe
- 
- - Lancer Xamp
- 
- - cliquez sur le bouton Start sur le Module Apache
- 
- - Rajouter une extension .dll (php_mongodb.dll) :C:\xampp\php\ext
 
-- Remplacer le fichier php.ini dans le chemin suivant : C:\xampp\php
 
 
 ## Page Web 
