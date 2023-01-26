@@ -97,7 +97,12 @@ Une fois toute les installations et configurations effecteur nous allons execute
 ![image](https://user-images.githubusercontent.com/118398845/214821948-01842b1f-5ea9-47f3-97df-b0553b917c20.png).
 
  - Puis vous allez remplacer par votre connexion a cette endroit du script:
- 
+
+
+ - Toujours dans le même code vous allez choisir un nom de collection (_ici nous l'avons appeler blabla_)
+
+
+- puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Refresh__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Basr
 
  
 
