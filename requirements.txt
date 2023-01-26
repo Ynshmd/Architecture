@@ -1,9 +1,0 @@
-pandas
-Flask
-bs4
-pymongo
-DateTime
-matplotlib
-seaborn
-python-dateutil
-webbrowser
