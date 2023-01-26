@@ -23,25 +23,25 @@ Sur ce projet , il faut installer :
 
   **En ligne de commande**
   
-  - __Installer pandas__
+ - __Installer pandas__
   ````
   pip install pandas
   
   ````
  
-  - __Installer python__
+ - __Installer python__
 
   ````
   pip install python
   ````
   
-  - __Installer Flask__
+  -  __Installer Flask__
   
   ``````
   pip install Flask
   ``````
   
-  - __Installer BS4__
+ - __Installer BS4__
  
  ``````
  pip install bs4
@@ -53,19 +53,19 @@ Sur ce projet , il faut installer :
  pip install pypmongo
  ``````
  
- - __Installer Datetime__
+- __Installer Datetime__
  
  ``````
  pip install datetime
  ``````
  
- - __Installer Matpotlin__
+- __Installer Matpotlin__
  
  ``````
  pip install -U matpotlib
  ``````
  
- - __Installer Webrowser__
+- __Installer Webrowser__
  
  ``````
  pip install pycopy-webbrowser
