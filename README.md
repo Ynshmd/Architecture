@@ -103,6 +103,8 @@ Une fois toute les installations et configurations effecteur nous allons execute
 
 - cliquez sur le bouton Start sur le Module Apache
 
+-Mettre le fichier projet_Bourse_voiture_site dans C:\Xamp\htdocs
+
 
 ## Analyse des donnée
 
