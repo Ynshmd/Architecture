@@ -19,7 +19,7 @@ Sur ce projet , il faut installer :
 - [Installer MongoSH](https://www.mongodb.com/try/download/shell)
 - [Installer Python](https://www.python.org/downloads/)
 - [Installer Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
-- [Installer Xamp](https://www.apachefriends.org/fr/download.html). Il faut installer la version 8.9 car c'est la dernière version qui est compatible avec Mongo.
+- [Installer Xamp](https://www.apachefriends.org/fr/download.html). Il faut installer la version 8.1 car c'est la dernière version qui est compatible avec Mongo.
 
   **En ligne de commande**
   
@@ -35,7 +35,7 @@ Sur ce projet , il faut installer :
  
  - Lancer Xamp
  
- - Faire Start sur le Module Apache
+ - cliquez sur le bouton Start sur le Module Apache
  
  - Rajouter une extension .dll (php_mongodb.dll) :C:\xampp\php\ext
 
