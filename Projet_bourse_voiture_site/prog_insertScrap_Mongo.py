@@ -14,8 +14,8 @@ app = Flask(__name__)
 def scrap():
 
     client = MongoClient("mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.6.1")
-    db = client["Projet"]
-    collection = db["Voiture_live_scrap2"]
+    db = client["FinalProjet"]
+    collection = db["Voiture_live_scrap"]
 
     cpt = 1
     max = 10
