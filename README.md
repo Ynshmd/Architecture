@@ -1,6 +1,6 @@
 # Architecture
 
-Ce Github est un projet d'architecture Base de donnée.Dans ce projet nous allons travailler avec le site de la centrale afin de prendre les données des véhicule (Modele , prix ,année , région) en coorélation avec le PIB par région en France. 
+Ce Github est un projet d'architecture Base de donnée.Dans ce projet nous allons travailler avec le site de la centrale afin de prendre les données des véhicule (Modele , prix ,année , région) en coorélation avec leur cotation bourssière . 
 
 Nous avons utilisé la centrale afin de récolter les données de ventes de véhicule d'occasion. Pour pouvoir récolter ces donnée nous nous sommes aidé de [Web Scrapper]
 * *Ce Read me a été réalisé sous windows 10 mais est identique pour Windows 11 , Linux et Mac.* 
@@ -12,10 +12,11 @@ Afin de récupérer les données sur
 
 Sur ce projet , il faut installer : 
 
-- [MongoDB](https://www.mongodb.com/try/download/community)
-- [MongoSH](https://www.mongodb.com/try/download/shell)
-- [Python](https://www.python.org/downloads/)
-- [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+- [Installer MongoDB](https://www.mongodb.com/try/download/community)
+- [Installer MongoSH](https://www.mongodb.com/try/download/shell)
+- [Installer Python](https://www.python.org/downloads/)
+- [Installer Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)(https://www.apachefriends.org/fr/download.html)
+- [Installer Xamp](https://www.apachefriends.org/fr/download.html)
 
   **En ligne de commande**
   
@@ -31,8 +32,15 @@ Sur ce projet , il faut installer :
   pip install python
   ````
   
+  - __InstallerXamp__
+  
+  ``````
+  ./xampp-linux-x64-7.2.9-0-installer. run
+  ``````
+  
+  
 ## Lancement MongoDB et MongoSH
-Pour executer notre projet il faut 
+Pour executer notre projet il faut tout d'abord lancer MongoSH  et MongoDB Compass
 
 ### - Mongo SH
 
@@ -42,15 +50,27 @@ Pour lancer MongoSh il faut lancer le .exe
 
 Il faut aller le chercher dans : 
 
-### - Mongo DB 
+### - Mongo DB Compass
 
-Pour lancer MongoDB il suffit de lancer l'application .
+Pour lancer MongoDBCompass il suffit de lancer l'application .
 
 
 ![image](https://user-images.githubusercontent.com/118398845/212063294-919a8d34-7a2b-4203-b712-5ee4a5104ec0.png)
 
+## VisualStudio
 
-##
+L'environnement que nous utilisons est VisualStudio Code  
+
+
+- [Installer VisualStudio](https://code.visualstudio.com/download)
+
+
+# Lancement de Stroke Finance ![icons8-racing-car-48](https://user-images.githubusercontent.com/118398845/214806718-ba2df5ba-7db1-43f1-b2ee-69bc30ba779d.png)
+
+Une fois toute les installation effecteur 
+
+
+
 
 
 
