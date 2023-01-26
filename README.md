@@ -107,6 +107,11 @@ Une fois toute les installations et configurations effecteur nous allons execute
 
 L'analyse de donnée se fais directement sur VisualCode. En executant le code suivant.
 
+
+![image](https://user-images.githubusercontent.com/118398845/214966459-62caf196-123a-415b-b230-dd08a93978f3.png)
+
+
+
 _Voici les résultats des graphes à obtenir_
 
 - Groupe-Bourse 2016 à 2021/Pourcentage ![image](https://user-images.githubusercontent.com/118398845/214953686-5d81dc08-4db6-4498-8beb-eeb0979c3a4b.png)
