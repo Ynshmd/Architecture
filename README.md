@@ -95,8 +95,7 @@ Une fois toute les installations et configurations effecteur nous allons execute
 
  - Puis vous allez remplacer par votre connexion a cette endroit du script: ********************************************
  
-- Puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Refresh__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Base:
-
+- Puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Reload DATA__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Base: ![image](https://user-images.githubusercontent.com/118398845/214893686-217c8788-a47b-4a87-a294-b11924657b20.png)
 
 - Données en Live
 
