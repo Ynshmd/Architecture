@@ -84,7 +84,7 @@ L'environnement que nous utilisons est VisualStudio Code
 - Faire un open folder du dossier du dossier de la base de données
 
 
-# Lancement de Stroke Finance  ![icons8-racing-car-48](https://user-images.githubusercontent.com/118398845/214806718-ba2df5ba-7db1-43f1-b2ee-69bc30ba779d.png)
+# Lancement du Projet  ![icons8-racing-car-48](https://user-images.githubusercontent.com/118398845/214806718-ba2df5ba-7db1-43f1-b2ee-69bc30ba779d.png)
 
 Une fois toute les installations et configurations effecteur nous allons executer le projet : 
 
