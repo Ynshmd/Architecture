@@ -121,6 +121,9 @@ L'environnement que nous utilisons est VisualStudio Code
 
 - [Installer VisualStudio](https://code.visualstudio.com/download)
 
+1- Faire un open folder du dossier du site
+2- Faire un open folder du dossier du dossier de la base de données
+
 
 # Lancement de Stroke Finance  ![icons8-racing-car-48](https://user-images.githubusercontent.com/118398845/214806718-ba2df5ba-7db1-43f1-b2ee-69bc30ba779d.png)
 
@@ -148,6 +151,7 @@ Sur Jupiter Lab
 
 ## Page Web 
 
+Nous avons utilisé flask 
 Actualisé :
 
 Modifié :
