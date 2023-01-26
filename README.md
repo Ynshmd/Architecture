@@ -87,7 +87,7 @@ Une fois toute les installations et configurations effecteur nous allons execute
 
 ## Insertion des donnée dans la Base
 
- - Ouvrez le fichier __blabla.py__ puis inserrer votre connexion correpondante qui se trouve dans votre Mongosh (_dans notre exemple nous allons utilisé la connexion du groupe):
+ - Ouvrez le fichier __blabla.py__ puis inserrer votre connexion correpondante qui se trouve dans votre Mongosh (_dans notre exemple nous allons utilisé la connexion du groupe_):
 ![image](https://user-images.githubusercontent.com/118398845/214821948-01842b1f-5ea9-47f3-97df-b0553b917c20.png).
 
  - Puis vous allez remplacer par votre connexion a cette endroit du script:
