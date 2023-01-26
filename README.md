@@ -40,6 +40,12 @@ Sur ce projet , il faut installer :
   ./xampp-linux-x64-7.2.9-0-installer. run
   ``````
   
+  - __Installer Flask__
+  
+  ``````
+  pip install Flask
+  ``````
+  
   
 ## Lancement MongoDB et MongoSH ![icons8-paramètres-de-l #39;ordinateur-portable-50](https://user-images.githubusercontent.com/118398845/214807221-e5cd379a-5e09-4045-a6ec-bc2588691783.png)
 
@@ -91,7 +97,7 @@ Une fois toute les installations et configurations effecteur nous allons execute
 ![image](https://user-images.githubusercontent.com/118398845/214821948-01842b1f-5ea9-47f3-97df-b0553b917c20.png).
 
  - Puis vous allez remplacer par votre connexion a cette endroit du script:
- - 
+ 
 
  
 
