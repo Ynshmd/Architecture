@@ -34,11 +34,11 @@ Sur ce projet , il faut installer :
 
  - Executer le xamp.exe
  
- - Lancer Xamp
- 
  - Rajouter une extension .dll (php_mongodb.dll) :C:\xampp\php\ext
 
 - Remplacer le fichier php.ini dans le chemin suivant : C:\xampp\php
+
+ - Lancer Xamp
 
 - cliquez sur le bouton Start sur le Module Apache
 
