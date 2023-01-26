@@ -9,7 +9,7 @@ Nous avons utilisé la centrale afin de récolter les données de ventes de véh
 
 # Prérequis 
 Tout d'abord dans ce prérequis nous allons installer tout les éléments necessaires pour pouvoir executer notre projet .Lors du dévellopement de ce Projet nous avons utiliser Visual studio code . 
-Afin de récupérer les données sur 
+
 ## Installations ![icons8-ampoule-globe-48](https://user-images.githubusercontent.com/118398845/214812403-1cdb1c93-4937-4550-89cd-e32e7aee91eb.png)
 
 
