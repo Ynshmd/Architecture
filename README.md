@@ -39,7 +39,8 @@ Sur ce projet , il faut installer :
   ``````
   
   
-## Lancement MongoDB et MongoSH
+## Lancement MongoDB et MongoSH ![icons8-paramètres-de-l #39;ordinateur-portable-50](https://user-images.githubusercontent.com/118398845/214807221-e5cd379a-5e09-4045-a6ec-bc2588691783.png)
+
 Pour executer notre projet il faut tout d'abord lancer MongoSH  et MongoDB Compass
 
 ### - Mongo SH
@@ -48,7 +49,12 @@ Pour lancer MongoSh il faut lancer le .exe
 
 ![image](https://user-images.githubusercontent.com/118398845/212062370-fc86b674-6c3c-454d-a825-e346e715d4c4.png)
 
-Il faut aller le chercher dans : 
+Une MongoSh lancer vous allez être diriger vers cette page :
+
+![image](https://user-images.githubusercontent.com/118398845/214807947-221f3776-7479-41f0-8745-55eaa78b27f9.png)
+
+Il faut appuyer sur la touche "ENTRER"![icons8-touche-entrée-48](https://user-images.githubusercontent.com/118398845/214808187-4534a048-76f7-4940-aeb6-00c5c5ca07f6.png)
+
 
 ### - Mongo DB Compass
 
@@ -56,6 +62,8 @@ Pour lancer MongoDBCompass il suffit de lancer l'application .
 
 
 ![image](https://user-images.githubusercontent.com/118398845/212063294-919a8d34-7a2b-4203-b712-5ee4a5104ec0.png)
+
+
 
 ## VisualStudio
 
@@ -65,7 +73,7 @@ L'environnement que nous utilisons est VisualStudio Code
 - [Installer VisualStudio](https://code.visualstudio.com/download)
 
 
-# Lancement de Stroke Finance ![icons8-racing-car-48](https://user-images.githubusercontent.com/118398845/214806718-ba2df5ba-7db1-43f1-b2ee-69bc30ba779d.png)
+# Lancement de Stroke Finance  ![icons8-racing-car-48](https://user-images.githubusercontent.com/118398845/214806718-ba2df5ba-7db1-43f1-b2ee-69bc30ba779d.png)
 
 Une fois toute les installation effecteur 
 
