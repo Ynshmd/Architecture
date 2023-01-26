@@ -2,7 +2,8 @@
 
 Ce Github est un projet d'architecture Base de donnée.Dans ce projet nous allons travailler avec le site de la centrale afin de prendre les données des véhicule (Modele , prix ,année , région) en coorélation avec leur cotation bourssière . 
 
-Nous avons utilisé la centrale afin de récolter les données de ventes de véhicule d'occasion. Pour pouvoir récolter ces donnée nous nous sommes aidé de [Web Scrapper]
+Nous avons utilisé la centrale afin de récolter les données de ventes de véhicule d'occasion. Pour pouvoir récolter ces donnée nous nous sommes aidé de [Web Scrapper], puis nous avons fais un script en python .
+
 * *Ce Read me a été réalisé sous windows 10 mais est identique pour Windows 11 , Linux et Mac.* 
 
 # Prérequis 
@@ -85,6 +86,14 @@ L'environnement que nous utilisons est VisualStudio Code
 Une fois toute les installations et configurations effecteur nous allons executer le projet : 
 
 ## Insertion des donnée dans la Base
+
+ - Ouvrez le fichier __blabla.py__ puis inserrer votre connexion correpondante qui se trouve dans votre Mongosh (_dans notre exemple nous allons utilisé la connexion du groupe):
+![image](https://user-images.githubusercontent.com/118398845/214821948-01842b1f-5ea9-47f3-97df-b0553b917c20.png).
+
+ - Puis vous allez remplacer par votre connexion a cette endroit du script:
+ - 
+
+ 
 
 
 
