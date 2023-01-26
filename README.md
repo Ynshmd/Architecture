@@ -8,7 +8,8 @@ Nous avons utilisé la centrale afin de récolter les données de ventes de véh
 # Prérequis 
 Tout d'abord dans ce prérequis nous allons installer tout les éléments necessaires pour pouvoir executer notre projet .Lors du dévellopement de ce Projet nous avons utiliser Visual studio code . 
 Afin de récupérer les données sur 
-## Installations
+## Installations ![icons8-ampoule-globe-48](https://user-images.githubusercontent.com/118398845/214812403-1cdb1c93-4937-4550-89cd-e32e7aee91eb.png)
+
 
 Sur ce projet , il faut installer : 
 
@@ -62,10 +63,12 @@ Pour lancer MongoDBCompass il suffit de lancer l'application .
 
 ![image](https://user-images.githubusercontent.com/118398845/212063294-919a8d34-7a2b-4203-b712-5ee4a5104ec0.png)
 
-Une fois l'application lancer vous allez créer une DATABASE il faut cliquer sur "__+__"
+- Une fois l'application lancer vous allez créer une DATABASE il faut cliquer sur "__+__"
+
 ![image](https://user-images.githubusercontent.com/118398845/214810829-8a6e00ea-461a-44f7-8323-cbaa74524942.png)
 
-
+- Puis choisissez le nom de votre DATA BASE
+![image](https://user-images.githubusercontent.com/118398845/214811859-8fe73660-a630-4e55-99db-cd24542e7a4e.png)
 
 
 
@@ -79,7 +82,11 @@ L'environnement que nous utilisons est VisualStudio Code
 
 # Lancement de Stroke Finance  ![icons8-racing-car-48](https://user-images.githubusercontent.com/118398845/214806718-ba2df5ba-7db1-43f1-b2ee-69bc30ba779d.png)
 
-Une fois toute les installation effecteur 
+Une fois toute les installations et configurations effecteur nous allons executer le projet : 
+
+## Insertion des donnée dans la Base
+
+
 
 
 
