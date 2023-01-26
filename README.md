@@ -82,6 +82,8 @@ Une fois toute les installations et configurations effecteur nous allons execute
  - Ouvrez tout d'abord les fichiers **prog_insert_bourse.py** , **prog_insert_voiture.py** ,**prog_insertScrap_Mongo.py** puis inserrez votre connexion correpondante qui se trouve dans votre Mongosh (_dans notre exemple nous allons utilisé la connexion du groupe_):
 ![image](https://user-images.githubusercontent.com/118398845/214821948-01842b1f-5ea9-47f3-97df-b0553b917c20.png).
 
+ - Ensuite vous pouvez executer **prog_Agregate_collection.py**
+
  - Puis vous allez remplacer par votre connexion a cette endroit du script: 
  
  ![image](https://user-images.githubusercontent.com/118398845/214965007-c64deb44-a73c-4470-8b15-5d239b12386a.png)
