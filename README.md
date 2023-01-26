@@ -18,7 +18,7 @@ Sur ce projet , il faut installer :
 - [Installer MongoDB](https://www.mongodb.com/try/download/community)
 - [Installer MongoSH](https://www.mongodb.com/try/download/shell)
 - [Installer Python](https://www.python.org/downloads/)
-- [Installer Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)(https://www.apachefriends.org/fr/download.html)
+- [Installer Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 - [Installer Xamp](https://www.apachefriends.org/fr/download.html). Il faut installer la version 8.9 car c'est la dernière version qui est compatible avec Mongo.
 
   **En ligne de commande**
@@ -121,8 +121,8 @@ L'environnement que nous utilisons est VisualStudio Code
 
 - [Installer VisualStudio](https://code.visualstudio.com/download)
 
-1- Faire un open folder du dossier du site
-2- Faire un open folder du dossier du dossier de la base de données
+- Faire un open folder du dossier du site
+- Faire un open folder du dossier du dossier de la base de données
 
 
 # Lancement de Stroke Finance  ![icons8-racing-car-48](https://user-images.githubusercontent.com/118398845/214806718-ba2df5ba-7db1-43f1-b2ee-69bc30ba779d.png)
@@ -134,10 +134,10 @@ Une fois toute les installations et configurations effecteur nous allons execute
  - Ouvrez le fichier __blabla.py__ puis inserrer votre connexion correpondante qui se trouve dans votre Mongosh (_dans notre exemple nous allons utilisé la connexion du groupe_):
 ![image](https://user-images.githubusercontent.com/118398845/214821948-01842b1f-5ea9-47f3-97df-b0553b917c20.png).
 
- - Puis vous allez remplacer par votre connexion a cette endroit du script:
+ - Puis vous allez remplacer par votre connexion a cette endroit du script: ********************************************
 
 
- - Toujours dans le même code vous allez choisir un nom de collection (_ici nous l'avons appeler blabla_): 
+ - Toujours dans le même code vous allez choisir un nom de collection (_ici nous l'avons appeler blabla_): *****************************
 
 
 - puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Refresh__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Base:
@@ -147,18 +147,18 @@ Une fois toute les installations et configurations effecteur nous allons execute
 
 ## Analyse des donnée
 
-Sur Jupiter Lab
+L'analyse de donnée se fais directement sur VisualCode. En executant le code suivant.
+
 
 ## Page Web 
 
-Nous avons utilisé flask 
-Actualisé :
+Nous avons utilisé flask comme framework pour notre page web .
 
-Modifié :
+- Sur VisualStudio Code dans le dossier du site :
+  
+  - Lancer le run_server_flask
+  - Puis ouvrir une page Web puis mettre (http://localhost/voiture/)
 
-Supprimer : 
-
-Ajouter :
 
  
 
