@@ -76,7 +76,6 @@ Pour lancer MongoDBCompass il suffit de lancer l'application .
 ![image](https://user-images.githubusercontent.com/118398845/214810829-8a6e00ea-461a-44f7-8323-cbaa74524942.png)
 
 - Puis choisissez le nom de votre DATA BASE
-![image](https://user-images.githubusercontent.com/118398845/214811859-8fe73660-a630-4e55-99db-cd24542e7a4e.png)
 
 
 
