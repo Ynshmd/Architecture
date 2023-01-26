@@ -103,6 +103,30 @@ Une fois toute les installations et configurations effecteur nous allons execute
 
 L'analyse de donnée se fais directement sur VisualCode. En executant le code suivant.
 
+_Voici les résultats des graphes à obtenir_
+
+- Groupe-Bourse 2016 à 2021/Pourcentage ![image](https://user-images.githubusercontent.com/118398845/214953686-5d81dc08-4db6-4498-8beb-eeb0979c3a4b.png)
+
+- Groupe-Bourse 2021/Pourcentage ![image](https://user-images.githubusercontent.com/118398845/214954856-c442f043-6d28-4551-b1e5-f06000e2e1ea.png)
+
+- Marque-Bourse 2016 à 2021 ![image](https://user-images.githubusercontent.com/118398845/214955313-2bfb84a3-54f1-4cce-8f6d-e08961758362.png)
+
+- Bourse 2021 - Marque /Pourcentage 2021 ![image](https://user-images.githubusercontent.com/118398845/214955739-2b9d1d58-c6c2-4355-9fde-d88b5002d27b.png)
+
+
+
+![image](https://user-images.githubusercontent.com/118398845/214956404-dbfca58c-4cf1-431f-9ada-ccacdcc5563a.png)
+
+
+
+![image](https://user-images.githubusercontent.com/118398845/214956537-b11030da-02ca-4045-9910-66fc5189fb65.png)
+
+
+
+![image](https://user-images.githubusercontent.com/118398845/214956636-a3634616-8abf-4a2f-9a54-c217f732436e.png)
+
+
+
 
 ## Page Web 
 
