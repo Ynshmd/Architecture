@@ -30,18 +30,6 @@ Sur ce projet , il faut installer :
    
    ``````
  
-## Lancement de XAMP
-
- - Executer le xamp.exe
- 
- - Rajouter une extension .dll (php_mongodb.dll) :C:\xampp\php\ext
-
-- Remplacer le fichier php.ini dans le chemin suivant : C:\xampp\php
-
- - Lancer Xamp
-
-- cliquez sur le bouton Start sur le Module Apache
-
 
 ## Lancement MongoDB et MongoSH ![icons8-paramètres-de-l #39;ordinateur-portable-50](https://user-images.githubusercontent.com/118398845/214807221-e5cd379a-5e09-4045-a6ec-bc2588691783.png)
 
@@ -102,6 +90,19 @@ Une fois toute les installations et configurations effecteur nous allons execute
 - Puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Reload DATA__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Base: ![image](https://user-images.githubusercontent.com/118398845/214893686-217c8788-a47b-4a87-a294-b11924657b20.png)
 
 - Données en Live
+
+## Lancement de XAMP
+
+ - Executer le xamp.exe
+ 
+ - Rajouter une extension .dll (php_mongodb.dll) :C:\xampp\php\ext
+
+- Remplacer le fichier php.ini dans le chemin suivant : C:\xampp\php
+
+ - Lancer Xamp
+
+- cliquez sur le bouton Start sur le Module Apache
+
 
 ## Analyse des donnée
 
