@@ -53,15 +53,19 @@ Une MongoSh lancer vous allez être diriger vers cette page :
 
 ![image](https://user-images.githubusercontent.com/118398845/214807947-221f3776-7479-41f0-8745-55eaa78b27f9.png)
 
-Il faut appuyer sur la touche "ENTRER"![icons8-touche-entrée-48](https://user-images.githubusercontent.com/118398845/214808187-4534a048-76f7-4940-aeb6-00c5c5ca07f6.png)
+Il faut appuyer sur la touche "__ENTRER__"![icons8-touche-entrée-48](https://user-images.githubusercontent.com/118398845/214808187-4534a048-76f7-4940-aeb6-00c5c5ca07f6.png)
 
 
 ### - Mongo DB Compass
 
 Pour lancer MongoDBCompass il suffit de lancer l'application .
 
-
 ![image](https://user-images.githubusercontent.com/118398845/212063294-919a8d34-7a2b-4203-b712-5ee4a5104ec0.png)
+
+Une fois l'application lancer vous allez créer une DATABASE il faut cliquer sur "__+__"
+![image](https://user-images.githubusercontent.com/118398845/214810829-8a6e00ea-461a-44f7-8323-cbaa74524942.png)
+
+
 
 
 
