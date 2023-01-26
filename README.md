@@ -19,7 +19,7 @@ Sur ce projet , il faut installer :
 - [Installer MongoSH](https://www.mongodb.com/try/download/shell)
 - [Installer Python](https://www.python.org/downloads/)
 - [Installer Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)(https://www.apachefriends.org/fr/download.html)
-- [Installer Xamp](https://www.apachefriends.org/fr/download.html)
+- [Installer Xamp](https://www.apachefriends.org/fr/download.html). Il faut installer la version 8.9 car c'est la dernière version qui est compatible avec Mongo.
 
   **En ligne de commande**
   
@@ -28,18 +28,12 @@ Sur ce projet , il faut installer :
   pip install pandas
   
   ````
-  
+ 
   - __Installer python__
 
   ````
   pip install python
   ````
-  
-  - __InstallerXamp__
-  
-  ``````
-  ./xampp-linux-x64-7.2.9-0-installer. run
-  ``````
   
   - __Installer Flask__
   
@@ -47,7 +41,48 @@ Sur ce projet , il faut installer :
   pip install Flask
   ``````
   
-  
+  - __Installer BS4__
+ 
+ ``````
+ pip install bs4
+ ``````
+ 
+ - __Installer Pymongo__
+ 
+ ``````
+ pip install pypmongo
+ ``````
+ 
+ - __Installer Datetime__
+ 
+ ``````
+ pip install datetime
+ ``````
+ 
+ - __Installer Matpotlin__
+ 
+ ``````
+ pip install -U matpotlib
+ ``````
+ 
+ - __Installer Webrowser__
+ 
+ ``````
+ pip install pycopy-webbrowser
+ ``````
+ 
+## Lancement de XAMP
+ - Executer le xamp.exe
+ 
+ - Lancer Xamp
+ 
+ - Faire Start sur le Module Apache
+ 
+ - Rajouter une extension .dll (php_mongodb.dll) :C:\xampp\php\ext
+
+- Remplacer le fichier php.ini dans le chemin suivant : C:\xampp\php
+
+
 ## Lancement MongoDB et MongoSH ![icons8-paramètres-de-l #39;ordinateur-portable-50](https://user-images.githubusercontent.com/118398845/214807221-e5cd379a-5e09-4045-a6ec-bc2588691783.png)
 
 Pour executer notre projet il faut tout d'abord lancer MongoSH  et MongoDB Compass
